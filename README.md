@@ -1,5 +1,6 @@
 # UCB-MFE-python-preprogram
 
+
 ## Class Schedule
 | Day      | Date       | Time       | Lecturer | Topics            | 
 | -------- | ---------- | ---------- | ----- | -------------------- |
